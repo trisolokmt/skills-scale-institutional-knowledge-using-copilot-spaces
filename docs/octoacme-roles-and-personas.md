@@ -75,7 +75,90 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies, removes blockers, and coaches the team on best practices in iterative delivery.
+
+### Responsibilities
+- Facilitate daily standups, sprint planning, and retrospectives
+- Identify and remove team blockers
+- Coach team on agile principles and process improvements
+- Ensure adherence to team rhythm and continuous improvement
+
+### Interactions
+- Works closely with PM/Project Managers to coordinate delivery and blockers
+- Supports Developers and Product Managers in translating requirements into shippable increments
+
+---
+
+## Business Analyst
+
+### Role Summary
+Documents requirements, analyzes business needs, and bridges communication between stakeholders and technical teams.
+
+### Responsibilities
+- Elicit and document requirements, use cases, and acceptance criteria
+- Analyze business processes and identify opportunities for improvement
+- Facilitate communication between stakeholders and delivery team
+
+### Interactions
+- Collaborates with Product Managers, Project Managers, Developers
+- Ensures requirements are clear and aligns business goals with technical delivery
+
+---
+
+## Technical Lead
+
+### Role Summary
+Guides technical decisions, ensures code quality, and leads system architecture for delivery teams.
+
+### Responsibilities
+- Oversee system design, architecture reviews, and code standards
+- Mentor Developers, conduct design/code reviews
+- Coordinate technical delivery and risk mitigation
+
+### Interactions
+- Works with Project Managers to plan delivery
+- Collaborates with Developers, Scrum Master, and Product Manager
+- Interfaces with Operations for deployment/reliability
+
+---
+
+## UX Designer
+
+### Role Summary
+Owns user research, prototyping, and usability testing to ensure the solution meets end-user needs.
+
+### Responsibilities
+- Conduct user research and gather feedback
+- Design user flows, wireframes, and prototypes
+- Perform usability testing and iterate on designs
+
+### Interactions
+- Works with Product Managers for requirements
+- Collaborates with Developers on front-end implementation
+- Partners with Business Analyst for user/business alignment
+
+---
+
+## Operations
+
+### Role Summary
+Owns system reliability, deployment, and monitoring. Coordinates incident response and continuous delivery.
+
+### Responsibilities
+- Maintain deployment pipelines, release processes, and monitoring
+- Respond to incidents and coordinate recovery efforts
+- Track reliability and SLAs, communicate with stakeholders
+
+### Interactions
+- Works with Developers on deployment and monitoring standards
+- Interfaces with PM and Project Manager for release management
+- Coordinates with Technical Lead and Stakeholders during incidents
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
